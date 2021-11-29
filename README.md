@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZeleSorin
-- 👀 I’m interested in app development, codding, games
-- 🌱 I’m currently learning python, java
-- 💞️ I’m looking to collaborate on nothing right now
+- 👀 I’m intrested in learning new stuff
+- 🌱 I’m currently learning java, software design, some python and maybeee some SQL
+
 
 <!---
 ZeleSorin/ZeleSorin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
