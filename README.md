@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZeleSorin
 - 👀 I’m intrested in learning new stuff
-- 🌱 I’m currently learning java, software design, some python and maybeee some SQL
+- 🌱 I’m currently learning java, software design, python and SQL
 
 
 <!---
